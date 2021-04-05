@@ -1,0 +1,174 @@
+{
+  "batchId": 10010001,
+  "clientId": 1001,
+  "depositDate": "7/31/2020",
+  "batchAmount": 1055,
+  "checkCount": 10,
+  "stubCount": 10,
+  "transaction": {
+    "checks": [
+      {
+        "routingNumber": "10010001101",
+        "accountNumber": 100100012001201,
+        "checkNumber": 10010001301,
+        "amount": 101,
+        "tranNum": 1,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001102",
+        "accountNumber": 10010001202,
+        "checkNumber": 10010001302,
+        "amount": 102,
+        "tranNum": 2,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001103",
+        "accountNumber": 10010001203,
+        "checkNumber": 10010001303,
+        "amount": 103,
+        "tranNum": 3,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001104",
+        "accountNumber": 10010001204,
+        "checkNumber": 10010001304,
+        "amount": 104,
+        "tranNum": 4,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001105",
+        "accountNumber": 10010001205,
+        "checkNumber": 10010001305,
+        "amount": 105,
+        "tranNum": 5,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001106",
+        "accountNumber": 10010001206,
+        "checkNumber": 10010001306,
+        "amount": 106,
+        "tranNum": 6,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001107",
+        "accountNumber": 10010001207,
+        "checkNumber": 10010001307,
+        "amount": 107,
+        "tranNum": 7,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001108",
+        "accountNumber": 10010001208,
+        "checkNumber": 10010001308,
+        "amount": 108,
+        "tranNum": 8,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001109",
+        "accountNumber": 10010001209,
+        "checkNumber": 10010001309,
+        "amount": 109,
+        "tranNum": 9,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      },
+      {
+        "routingNumber": "10010001110",
+        "accountNumber": 10010001210,
+        "checkNumber": 10010001310,
+        "amount": 110,
+        "tranNum": 10,
+        "remitterName": "some_name",
+        "micr": "micr_value"
+      }
+    ],
+    "stubs": [
+      {
+        "invoiceNumber": "10010001401",
+        "scanLine": 10010001501,
+        "arSystemRef": 10010001601,
+        "amount": 101,
+        "tranNum": 1
+      },
+      {
+        "invoiceNumber": "10010001402",
+        "scanLine": 10010001502,
+        "arSystemRef": 10010001602,
+        "amount": 102,
+        "tranNum": 2
+      },
+      {
+        "invoiceNumber": "10010001403",
+        "scanLine": 10010001503,
+        "arSystemRef": 10010001603,
+        "amount": 103,
+        "tranNum": 3
+      },
+      {
+        "invoiceNumber": "10010001404",
+        "scanLine": 10010001504,
+        "arSystemRef": 10010001604,
+        "amount": 104,
+        "tranNum": 4
+      },
+      {
+        "invoiceNumber": "10010001405",
+        "scanLine": 10010001505,
+        "arSystemRef": 10010001605,
+        "amount": 105,
+        "tranNum": 5
+      },
+      {
+        "invoiceNumber": "10010001406",
+        "scanLine": 10010001506,
+        "arSystemRef": 10010001606,
+        "amount": 106,
+        "tranNum": 6
+      },
+      {
+        "invoiceNumber": "10010001407",
+        "scanLine": 10010001507,
+        "arSystemRef": 10010001607,
+        "amount": 107,
+        "tranNum": 7
+      },
+      {
+        "invoiceNumber": "10010001408",
+        "scanLine": 10010001508,
+        "arSystemRef": 10010001608,
+        "amount": 108,
+        "tranNum": 8
+      },
+      {
+        "invoiceNumber": "10010001409",
+        "scanLine": 10010001509,
+        "arSystemRef": 10010001609,
+        "amount": 109,
+        "tranNum": 9
+      },
+      {
+        "invoiceNumber": "10010001410",
+        "scanLine": 10010001510,
+        "arSystemRef": 10010001610,
+        "amount": 110,
+        "tranNum": 10
+      }
+    ]
+  }
+}
