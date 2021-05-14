@@ -1,6 +1,6 @@
 
 ###Goal 
- * to find the best DB for lockbox app
+ * to find the best DB for hotel app
  * 
 
 ### target data
